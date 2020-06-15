@@ -1,0 +1,3 @@
+Faire git add .
+git commit -m "message du commit"
+heroku login push heroku master (ou heroku create nomducontainer par exemple)
